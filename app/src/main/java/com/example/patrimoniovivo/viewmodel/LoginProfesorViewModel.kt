@@ -4,5 +4,5 @@ import androidx.compose.runtime.mutableStateOf
 
 class LoginProfesorViewModel {
 
-    val Nombres by mutableStateOf("")
+
 }

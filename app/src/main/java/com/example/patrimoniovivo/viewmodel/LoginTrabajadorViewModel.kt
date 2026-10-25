@@ -27,4 +27,5 @@ class LoginTrabajadorViewModel : ViewModel() {
         return mailTrabajador.trim().equals(usuariocorrecto.mail, ignoreCase = true) &&
                 passTrabajador == usuariocorrecto.pass
     }
+
 }
